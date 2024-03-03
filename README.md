@@ -13,3 +13,7 @@ And off it goes! :)
 ![image](https://github.com/Cameron-Skerritt/Personal-Projects/assets/122690042/4b7a91a3-c7eb-4e0b-bfa8-bd773bd86f48)
 
 Note: The script will display the URL it found which is vulnerable, when giving a vulnerable URL, include the full vulnerable URL including http.
+
+## Why did you create this?
+This is merely a side project of mine, I wanted to have an automatic tool that trys all LFI possabilities to speed things up when doing CTFs, however, since fimap is no longer maintained, I decided to create my own version.
+This isn't overly complicated but a PoC at best.
