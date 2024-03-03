@@ -79,7 +79,6 @@ def getURL(target, payload):
 
 
 payload_lists = [basic_payloads, php_wrappers, remote_shell]
-global target
 def main():
         print("Example URL: http://10.10.10.10/search.php?page=") # example of vulnerable URL
         target = input("Enter target: ")
