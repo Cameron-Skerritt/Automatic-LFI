@@ -19,3 +19,7 @@ When giving a vulnerable URL, include the full vulnerable URL including http.
 This is merely a side project of mine, I wanted to have an automatic tool that try's all LFI possabilities to speed things up when doing CTFs, however, since fimap is no longer maintained, I decided to create my own version.
 This isn't overly complicated but a PoC at best.
 I do intend on making it more complex by adding RFI, encoding, more shells incase the main one doesn't work etc.
+
+# Things I'll eventually add..
+1) Create RFI capabilities
+2) Show current location
