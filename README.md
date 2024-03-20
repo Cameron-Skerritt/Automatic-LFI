@@ -26,7 +26,6 @@ This isn't overly complicated but a PoC at best.
 I do intend on making it more complex by adding RFI, encoding, more shells in case the main one doesn't work etc.
 
 # To Do List
-
-2) Show current location
-3) Fix PHP Wrappers (Currently broken)
-4) Add encoding for each list with varying complexity.
+1) Show current location if possible.
+2) Fix PHP Wrappers (Currently broken)
+3) Add encoding for each list with varying complexity.
