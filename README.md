@@ -12,8 +12,9 @@ fimap: https://github.com/kurobeats/fimap
 
 ## How to use it?
 1) Simply download the .py file & rfI_test.php file.
-2) python3 alfi.py
-3) Enter vulnerable URL. i.e. "http://10.10.10.10/search.php?page="
+2) Edit the attacker_ip & port to your local IP & listener port. (python server is defaulted to port 80.)
+3) python3 alfi.py
+4) Enter vulnerable URL. i.e. "http://10.10.10.10/search.php?page="
 And off it goes! :)
 ![image](https://github.com/Cameron-Skerritt/Automatic-LFI/assets/122690042/962f65bd-859b-4a08-9b3e-8315f88db74b)
 
@@ -30,3 +31,4 @@ I do intend on making it more complex by adding RFI, encoding, more shells in ca
 1) Show current location if possible.
 2) Fix PHP Wrappers (Currently broken)
 3) Add encoding for each list with varying complexity.
+4) automatically detect the vulnerable part of the URL
