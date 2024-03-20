@@ -15,7 +15,8 @@ fimap: https://github.com/kurobeats/fimap
 2) python3 alfi.py
 3) Enter vulnerable URL. i.e. "http://10.10.10.10/search.php?page="
 And off it goes! :)
-![image](https://github.com/Cameron-Skerritt/Personal-Projects/assets/122690042/4b7a91a3-c7eb-4e0b-bfa8-bd773bd86f48)
+![image](https://github.com/Cameron-Skerritt/Automatic-LFI/assets/122690042/962f65bd-859b-4a08-9b3e-8315f88db74b)
+
 
 Note: The script will display the URL it found which is vulnerable.
 When giving a vulnerable URL, include the full vulnerable URL including http.
