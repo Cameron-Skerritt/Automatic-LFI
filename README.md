@@ -11,7 +11,7 @@ fimap: https://github.com/kurobeats/fimap
 
 
 ## How to use it?
-1) Simply download the .py file
+1) Simply download the .py file & rfI_test.php file.
 2) python3 alfi.py
 3) Enter vulnerable URL. i.e. "http://10.10.10.10/search.php?page="
 And off it goes! :)
