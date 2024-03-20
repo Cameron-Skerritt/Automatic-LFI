@@ -1,6 +1,6 @@
 # Automatic Local File Inclusion Script
 
-This script is an automatic tool for CTFs which try's basic LFI and RCE methods.
+This script is an automatic tool for CTFs which try's basic LFI, RFI and RCE methods.
 This is just a PoC. This is inspired from: fimap, an old, outdated LFI script.
 fimap: https://github.com/kurobeats/fimap
 
