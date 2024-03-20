@@ -4,6 +4,11 @@ This script is an automatic tool for CTFs which try's basic LFI and RCE methods.
 This is just a PoC. This is inspired from: fimap, an old, outdated LFI script.
 fimap: https://github.com/kurobeats/fimap
 
+## Current Functionality
+- Basic Local File Inclusion Enumeration
+- Remote Shell capabilities
+- Fully automatic (requires local python server for RFI)
+
 
 ## How to use it?
 1) Simply download the .py file
@@ -20,6 +25,8 @@ This is merely a side project of mine, I wanted to have an automatic tool that t
 This isn't overly complicated but a PoC at best.
 I do intend on making it more complex by adding RFI, encoding, more shells in case the main one doesn't work etc.
 
-# Things I'll eventually add..
-1) Create RFI capabilities
+# To Do List
+
 2) Show current location
+3) Fix PHP Wrappers (Currently broken)
+4) Add encoding for each list with varying complexity.
