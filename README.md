@@ -7,7 +7,7 @@ fimap: https://github.com/kurobeats/fimap
 ## Current Functionality
 - Basic Local File Inclusion Enumeration
 - Remote Shell capabilities
-- Fully automatic (requires local python server for RFI)
+- Fully automatic (requires local python server for RFI & nc server)
 
 
 ## How to use it?
